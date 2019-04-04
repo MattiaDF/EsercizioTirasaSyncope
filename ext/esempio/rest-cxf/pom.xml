@@ -40,6 +40,11 @@
             <artifactId>syncope-ext-esempio-logic</artifactId>
             <version>${project.version}</version>
         </dependency>
+        <dependency>
+            <groupId>difedericomattia</groupId>
+            <artifactId>syncope-ext-esempio-model</artifactId>
+            <version>${project.version}</version>
+        </dependency>
     </dependencies>
 
     <build>

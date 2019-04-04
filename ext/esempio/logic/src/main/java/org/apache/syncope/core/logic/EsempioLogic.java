@@ -1,7 +1,7 @@
 package org.apache.syncope.core.logic;
 
 import org.apache.syncope.common.lib.to.AbstractAnnotatedBean;
-import org.apache.syncope.common.rest.api.service.JsonObject;
+import org.apache.syncope.model.JsonObject;
 import org.springframework.stereotype.Component;
 
 import java.lang.reflect.Method;
